@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    position: relative;
+    width: 1309.5px;
+    height: 768px;
+    background: #000000;
+}
+
+header img {
+    position: absolute;
+    width: 108px;
+    height: 108px;
+    left: 116px;
+    top: 0px;
+
+    background: url('../assets/img/CSR_toro.jpg');
+}
+
+button:hover {
+    background-color: #3b493bb5; 
+    color: white;
+    border-radius: 6px;
+  }
+
+.proyectos{
+    background-color: transparent;
+    position: absolute;
+    width: 123px;
+    height: 37px;
+    left: 286px;
+    top: 48px;
+    
+    font-family: 'BM HANNA_TTF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
+
+.popular{
+    background-color: transparent;
+    position: absolute;
+width: 157px;
+height: 37px;
+left: 431px;
+top: 48px;
+
+font-family: 'BM HANNA_TTF';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+
+color: #FFFFFF;
+}
+
+.acerca{
+    background-color: transparent;
+    position: absolute;
+width: 123px;
+height: 37px;
+left: 610px;
+top: 48px;
+
+font-family: 'BM HANNA_TTF';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+
+color: #FFFFFF;
+}
+
+.futuro{
+    background-color: transparent;
+    position: absolute;
+    width: 123px;
+    height: 37px;
+    left: 748px;
+    top: 48px;
+    
+    font-family: 'BM HANNA_TTF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
+
+.lupa{
+    position: absolute;
+width: 32px;
+height: 32px;
+left: 1245px;
+top: 40px;
+
+background: url(buscar.png);
+}
+
